@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Master's Student majoring in Embedded Systems for Mechatronics at FH Dortmund
 
-- 🧠 I am currently learning **(Deep Learning, Computer Vision, UI/UX Design, TinyMl)**
+- 🧠 I am currently learning **(Deep Learning, Computer Vision, UI/UX Design, TinyML)**
 
 - 👯 I’m looking to collaborate on **Deep Learning, Computer Vision, Edge Computing, Embedded Systems or IoT** based projects
 
